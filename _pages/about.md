@@ -10,11 +10,12 @@ classes: wide
 ---
 <h1> Hi 👋 My name is Rakshak Kunchum</h1>
 
-Incoming Data Science Intern at Capital One (Summer 2024), McLean, VA
---------------------------------------------------------
-
 Data Science Graduate Student at Northeastern University
 --------------------------------------------------------
+
+Data Science Intern at Capital One (Summer 2024), McLean, VA
+--------------------------------------------------------
+
 
 * 🌍  I'm based in Boston, MA
 * ✉️  You can contact me at [krakshak7698@gmail.com](mailto:krakshak7698@gmail.com)
