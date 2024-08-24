@@ -38,6 +38,7 @@ Databases
 <p align="left">
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/mysql-official.svg" width="36" height="36" alt="MySQL" />MySQL</a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />MongoDB</a>
+<a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/snowflake-icon.svg" width="36" height="36" alt="SnowFlake" />SnowFlake</a>
 </p>
 
 Python Frameworks for Data Science
