@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 classes: wide
 ---
-Hi 👋 My name is Rakshak Kunchum
-================================
+# Hi 👋 My name is Rakshak Kunchum
 
 ### 💡 ML | NLP | DL | GenAI
 
