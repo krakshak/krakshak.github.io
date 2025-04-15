@@ -20,8 +20,8 @@ classes: wide
 
 ## Experience
 * Data Science Intern @ Capital One, McLean, Virginia, USA (June 2024 - August 2024)
-* Data Science Engineer @ DataWeave, Bangalore, India (July 2020 - October 2022)
-* Data Engineering Intern @ DataWeave, Bangalore, India (January 2020 - June 2020)
+* Data Scientist @ DataWeave, Bangalore, India (July 2020 - October 2022)
+* Data Science Intern @ DataWeave, Bangalore, India (January 2020 - June 2020)
 
 ## Intro
 
@@ -97,7 +97,7 @@ Data Engineering
 </p>
 
 ## About Me
-In my role as a Data Scientist Intern at [Capital One](https://www.capitalone.com/), I led a fraud detection project that automated feature creation, algorithm optimization, and visualization for Supplemental Fraud SAR risk sloping. This work saved 20 FTE investigators’ effort and nearly $1M in operational costs while achieving a ROC-AUC score of 0.8. My contributions went beyond technical implementation by effectively communicating results to cross-functional teams, and turning complex data insights into actionable strategies. Formerly a <b>Data Science Engineer</b> at [Dataweave](https://dataweave.com/), an e-commerce analytics company for 2.5 years. In this role, I was initially involved in <b>Data scraping and Data Wrangling</b> from major e-commerce websites. As I progressed, I transitioned into <b>automating data workflows</b> using technologies like <b>Apache Airflow</b> and <b>Amazon Web Services</b>. This hands-on experience allowed me to witness the direct application of Data Science in solving real-world problems.
+In my role as a Data Science Intern at [Capital One](https://www.capitalone.com/), I led a fraud detection project that automated feature creation, algorithm optimization, and visualization for Supplemental Fraud SAR risk sloping. This work saved 20 FTE investigators’ effort and nearly $1M in operational costs while achieving a ROC-AUC score of 0.8. My contributions went beyond technical implementation by effectively communicating results to cross-functional teams, and turning complex data insights into actionable strategies. Formerly a <b>Data Scientist</b> at [Dataweave](https://dataweave.com/), an e-commerce analytics company for 2.5 years. In this role, I was initially involved in <b>Data scraping and Data Wrangling</b> from major e-commerce websites. As I progressed, I transitioned into <b>automating data workflows</b> using technologies like <b>Apache Airflow</b> and <b>Amazon Web Services</b>. This hands-on experience allowed me to witness the direct application of Data Science in solving real-world problems.
 
 I completed my undergraduate in Information Science Engineering at [BMS College of Engineering](https://www.bmsce.ac.in/), graduating in the <b>top 10%</b> of the class of 2020. My research interests include Neural Networks and Computer Vision. At BMSCE, I was a <b>senior coordinator</b> for the ISE Student Club and served as the <b>Technical mentor</b> between 2019-2020. From a cultural standpoint, I served as the <b>Coordinator and Head</b> of the publicity and sponsorship teams for the BMSCE’s annual technial symposium, PhaseShift between 2018-2019.
 
